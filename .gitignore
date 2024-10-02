@@ -1,0 +1,26 @@
+# Ignore build directories
+build/
+install/
+log/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# ROS2 specific logs and artifacts
+.colcon/
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
+
+# Virtual environment directories
+env/
+venv/
+.posenet_env/
+
+# OS generated files
+.DS_Store
+
+# Ignore other temporary files
+*.swp
+*~
