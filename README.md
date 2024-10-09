@@ -1,3 +1,4 @@
+Usefull lines 
 Launch camera in ROS2
 ros2 launch orbbec_camera ob_camera.launch.py \
   color_width:=1920 color_height:=1080 color_fps:=15 color_format:=MJPG \
